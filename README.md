@@ -1,16 +1,37 @@
-## Hi there 👋
+<reindeljohnlicup-sketch>
 
-<!--
-**reindeljohnlicup-sketch/reindeljohnlicup-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello, I’m Reindel John H. Licup
 
-Here are some ideas to get you started:
+I am an Information Technology student passionate about technology, software development, and continuous learning. This repository serves as my GitHub profile repository.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##Education
+- Bachelor of Science in Information Technology (BSIT)
+- New Era University
+
+---
+
+## 🏅 Certifications
+- (Add your certifications here)
+- Example: *Cybersecurity Essentials – Cisco Networking Academy*
+- Example: *Python Basics – Coursera / Google*
+
+---
+
+## 💻 Skillsets
+- Programming Languages: HTML, CSS, JavaScript, PHP, SQL  
+- Tools & Technologies: Git, GitHub, VS Code, JSON  
+- Web Development: Frontend & Backend basics  
+- Others: Problem-solving, UI layouting
+
+---
+
+## 📫 Contact
+- Email: reindeljohn.licup@neu.edu.ph
+- GitHub: https://github.com/reindeljohnlicup-sketch
+
+
+---
+
+Thanks for visiting my profile! 
