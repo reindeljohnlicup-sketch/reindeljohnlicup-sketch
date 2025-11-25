@@ -13,7 +13,6 @@ I am an Information Technology student passionate about technology, software dev
 ---
 
 ##  Certifications
--
 - [View my SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/cca9b44b34c04a89849c8d3fc78ebbc7)
 
 - Example: *Python Basics – Coursera / Google*
