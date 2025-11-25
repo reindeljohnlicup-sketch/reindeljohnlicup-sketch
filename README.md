@@ -6,7 +6,7 @@ I am an Information Technology student passionate about technology, software dev
 
 ---
 
-##Education
+##  Education
 - Bachelor of Science in Information Technology (BSIT)
 - New Era University
 
