@@ -16,7 +16,7 @@ I am an Information Technology student passionate about technology, software dev
 - [View my SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/cca9b44b34c04a89849c8d3fc78ebbc7)
 - [Become An OCI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=74A743268FE09D4EE89AE6955CC3790DF0040C9640276F286A5EA5B296874B71)
 - [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/pls/certview/shareba2878dge?id=96C0801EFB3639C7FFB13A832B48E22B1DB2D26F9BDFF848B198D0BAAFA5)
-- - [Become An OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=573C8249E044DA35D2D24E1360A052AAC1966500D3E6CEEFA4CEA2F75BD1F187)
+- [Become An OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=573C8249E044DA35D2D24E1360A052AAC1966500D3E6CEEFA4CEA2F75BD1F187)
 ---
 
 ## 💻 Skillsets
